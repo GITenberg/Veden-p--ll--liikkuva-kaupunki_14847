@@ -20,6 +20,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14847#Veden-p--ll--liikkuva-kaupunki
 gutenberg_issued: '2005-01-31'
 gutenberg_type: Text
 identifiers:
